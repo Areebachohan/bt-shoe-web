@@ -1,0 +1,25 @@
+.rotate {
+  transform: rotate(-45deg);
+}
+
+.navbar-collapse {
+  flex-grow: 0;
+}
+.row {
+  margin-top: 2rem;
+}
+.price {
+  color: coral;
+  font-weight: bold;
+}
+.old-price {
+  text-decoration: line-through;
+}
+.card {
+  border-radius: 20px;
+}
+.img-container{
+    width: 80%;
+    margin: auto;
+}
+
